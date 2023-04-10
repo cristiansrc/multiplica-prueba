@@ -1,0 +1,4 @@
+Bundle-Name: mvc
+Bundle-SymbolicName: com.multiplica.prueba.cristiansrc.producto.mvc
+Bundle-Version: 1.0.0
+Export-Package: com.multiplica.prueba.cristiansrc.producto.mvc.constants

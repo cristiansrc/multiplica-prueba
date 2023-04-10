@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.multiplica.prueba.cristiansrc.producto.repository.model.ProductDb">
+		<field name="uuid" type="String" />
+		<field name="id" type="long" />
+		<field name="name" type="String" />
+		<field name="description" type="String" />
+	</model>
+</model-hints>

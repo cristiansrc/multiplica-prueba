@@ -1,0 +1,10 @@
+Bundle-Name: repository-api
+Bundle-SymbolicName: com.multiplica.prueba.cristiansrc.producto.repository.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.multiplica.prueba.cristiansrc.producto.repository.exception,\
+	com.multiplica.prueba.cristiansrc.producto.repository.model,\
+	com.multiplica.prueba.cristiansrc.producto.repository.service,\
+	com.multiplica.prueba.cristiansrc.producto.repository.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../repository-service/service.xml

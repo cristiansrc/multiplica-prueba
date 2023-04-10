@@ -1,0 +1,1 @@
+create index IX_F6838F4F on prueba_ProductDb (uuid_[$COLUMN_LENGTH:75$]);
